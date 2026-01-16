@@ -38,8 +38,8 @@ The objective of this project is to analyze a marketing campaign funnel to under
 
 ## 📂 Repository Contents
 - `Marketing_Funnel_Analysis.ipynb` – Complete analysis notebook
-- Dataset (if included)
-- Project documentation (included within the notebook and README)
+- Dataset 
+- Project documentation 
 
 ---
 
